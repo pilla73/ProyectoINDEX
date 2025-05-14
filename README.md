@@ -1,1 +1,19 @@
-# ProyectoINDEX
+<HTML>
+<HEAD>
+<TITLE>PAGINA WEB</TITLE>
+</HEAD>
+<BODY>
+<CENTER><H1>PORTADA<H1></CENTER>
+<HR>
+<P> GUADALUPE MONSERRAT HERNANDEZ SERRATO 
+<P>604
+<P>CENTRO DE ESTUDIOS DE BACHILLERATO CEB5/11
+
+<P><IMG SRC ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJvXTV_RGtLKkZYQYkoIw1BuZAOL3FHGYSPw&s.jpg">
+<a href="">PAGINA1</a>
+<a href="">PAGINA2</a>
+<a href="">PAGINA3</a>
+<a href="">PAGINA4</a>
+<a href="">PAGINA5</a>
+</BODY>
+</HTML>
